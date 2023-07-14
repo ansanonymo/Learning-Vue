@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: rgb(0, 136, 255);
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    margin: 6px;
+    text-align: center;
+}
