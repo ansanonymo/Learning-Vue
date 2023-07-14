@@ -3,7 +3,21 @@
 Contains : 
 - [Install vue basic template](#install-vue-basic-template)
 - [Creating a Vue Application](#creating-a-vue-applicaiton)
+- [Template Syntax](#template-syntax)
+- [Reactivity Fundametals](#reactivity-fundametals)
+- [Computed Properties](#computed-properties)
+- [Class and Style Binding](#class-and-style-bindings)
+- [Conditional Rendering](#conditional-rendering)
+- [List Rendering](#list-rendering)
+- [Listening to Events](#listening-to-events)
+- [Form input bindings](#form-input-bindings)
+- [Lifecycle Hooks](#lifecycle-hooks)
+- [Watchers](#watchers)
+- [Template Refs](#template-refs)
+- [Defining a Component](#defining-a-component)
+- [Using a Component](#using-a-component)
 
+<hr />
 
 ## Install vue basic template
 
